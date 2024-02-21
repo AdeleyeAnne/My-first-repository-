@@ -1,0 +1,25 @@
+Tasks performed:
+
+Data Cleaning:
+• Deleting redundant columns.
+• Renaming the columns.
+• Dropping duplicates.
+• Cleaning individual columns.
+• Remove the NaN values from the dataset
+• Check for some more Transformations
+
+Data Visualization:
+• Marital Status 
+• Job Role 
+• Gender
+• Education Field
+• Department 
+• Business Travel
+• Relation between Overtime and Age
+• Total Working Year
+• Education Level
+• Number of Companies Worked
+• Distance from Home
+
+I downloaded the dataset and uploaded the data using the "Get Data" option in 
+Power BI. Then, I utilized the "Transform" option to check for any null values in the Dataset.
